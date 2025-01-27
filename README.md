@@ -17,7 +17,7 @@ The Travelling Salesman Problem is an NP-hard optimization problem where the goa
 
 ## Execution Results
  ![1 node](images/SequentialOutput.png)  
-  *Figure: Elapsed Time with 1 node*  
+  *Figure 1: Elapsed Time with 1 node*  
   
- ![4 nodes](images/ParallelOutput.png)
-  *Figure: Elapsed Time with 4 nodes*
+ ![4 nodes](images/ParallelOutput.png)  
+  *Figure2 : Elapsed Time with 4 nodes*
