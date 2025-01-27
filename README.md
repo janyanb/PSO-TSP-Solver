@@ -12,7 +12,7 @@ The Travelling Salesman Problem is an NP-hard optimization problem where the goa
   - Observed that the social component (c2) significantly influences the solution quality:
     - Higher social influence (c2): Results in better cooperation among particles, achieving optimized routes with distances between 500-700.
     - Lower social influence (c2): Limits cooperation, leading to suboptimal routes with distances greater than 1000.
-      [Social and Cognitive Influence](images/SocialandCognitiveInfluence.PNG)
+      ![Social and Cognitive Influence](images/SocialandCognitiveInfluence.PNG)
 - Achieves a 2.3x performance improvement compared to the sequential implementation.
 
 ## Execution Results
